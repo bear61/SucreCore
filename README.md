@@ -1,7 +1,7 @@
 Sucre Core 0.12.2
 ===============================
 
-http://sucremoneda.net
+http://sucre.tech
 
 
 To Build Daemon in Ubuntu
